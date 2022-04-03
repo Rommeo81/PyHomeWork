@@ -1,0 +1,15 @@
+Anderson 10712.50
+Brown 21390.00
+Davis 16533.75
+Harris 9472.50
+Jackson 10677.50
+Johnson 27901.25
+Jones 21390.00
+Miller 14605.00
+Moore 10747.50
+Smith 34652.50
+Taylor 10712.50
+Thomas 10712.50
+White 9610.00
+Williams 24077.50
+Wilson 11677.50
